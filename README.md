@@ -5,4 +5,6 @@ Para ejecutar este proyecto es necesario tener instalada la aplicacion de INSTAG
 
 Introducción
 Objetivo: Es lograr hacer un filtro de instagram ocupando la realidad aumentada.
+¿Cómo funciona? 
+
 
