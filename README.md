@@ -6,5 +6,14 @@ Para ejecutar este proyecto es necesario tener instalada la aplicacion de INSTAG
 Introducción
 Objetivo: Es lograr hacer un filtro de instagram ocupando la realidad aumentada.
 ¿Cómo funciona? 
+Es un filtro con la aplicación de Spark AR y para hacerlo funcionar necesitamos acceder al codigo QR que se deja en la descripcion
+PASO PARA DESCARGAR Y PODER USAR EL FILTRO USANDO EL CODIGO QR: 
 
+PASO 1: ABRIR LA CÁMARA DE TU TELÉFONO
+
+PASO 2: POSICIONAR LA CAMARA FRENTE AL CODIGO QR
+
+PASO 3: SE TE REDIRECCIONARÁ A LA CAMARA DE INSTAGRAM Y SE TE ABRIRA EL FILTRO DE NARUTO
+
+PAGO 4: POSICIONALO FRENTRE AL LOGO DE NARUTO Y LISTO, PODRÁS USARLO!
 
